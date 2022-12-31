@@ -4,6 +4,8 @@
   "description": "Mailchimp",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "built": "echo sucess",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Janes",
